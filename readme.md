@@ -31,7 +31,7 @@
 
 ### 2016
 
-- <a name="todo"></a> Learning without forgetting (**ECCV2016**) [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
+- Online Open World Recognition (**arXiv 16**) [[paper](https://arxiv.org/abs/1604.02275)] 
 
 ### 2015
 - Learning without forgetting (**CVPR15**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Bendale_Towards_Open_World_2015_CVPR_paper.html)]
