@@ -9,7 +9,7 @@
   ### 2020
 - Multi-Instance Learning with Emerging Novel Class (**TKDE20**) [[paper](https://ieeexplore.ieee.org/document/8896009)] 
 -  Semi-Supervised Streaming Learning with Emerging New Labels. (**AAAI20**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6186)] 
-
+- OpenWGL: Open-World Graph Learning (**ICDM20**) [[paper](https://ieeexplore.ieee.org/abstract/document/9338284)] 
   
   ### 2019
 
@@ -34,7 +34,8 @@
 - Online Open World Recognition (**arXiv 16**) [[paper](https://arxiv.org/abs/1604.02275)] 
 
 ### 2015
-- Towards open world recognition (**CVPR15**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Bendale_Towards_Open_World_2015_CVPR_paper.html)]
+- 
+Towards open world recognition (**CVPR15**) [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Bendale_Towards_Open_World_2015_CVPR_paper.html)]
 
 ### 2014
 - Learning with Augmented Class by Exploiting Unlabeled Data  (**AAAI14**)  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/8997)]
