@@ -9,12 +9,16 @@
   ### 2020
 - Multi-Instance Learning with Emerging Novel Class (**TKDE20**) [[paper](https://ieeexplore.ieee.org/document/8896009)] 
 -  Semi-Supervised Streaming Learning with Emerging New Labels. (**AAAI20**) [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6186)] 
-- OpenWGL: Open-World Graph Learning (**ICDM20**) [[paper](https://ieeexplore.ieee.org/abstract/document/9338284)] 
+- OpenWGL: Open-World Graph Learning (**ICDM20**) [[paper](https://ieeexplore.ieee.org/abstract/document/9338284)]
+- Automatically Discovering and Learning New Visual Categories with Ranking Statistics  (**ICLR20**) [[paper](https://openreview.net/forum?id=BJl2_nVFPB)]
   
   ### 2019
 
 - Nearest Neighbor Ensembles: An Effective Method for Difficult Problems in Streaming Classification with Emerging New Classes (**ICDM19**) [[paper](https://ieeexplore.ieee.org/abstract/document/8970887/)] 
 - Robust High Dimensional Stream Classification with Novel Class Detection (**ICDE19**) [[paper](https://ieeexplore.ieee.org/abstract/document/8731449/)] 
+- Open-world Learning and Application to Product Classification (**WWW19**) [[paper](https://arxiv.org/abs/1809.06004/)] 
+- Learning to Discover Novel Visual Categories via Deep Transfer Clustering (**ICCV19**) [[paper](https://arxiv.org/abs/1908.09884)] 
+
 
 
 
