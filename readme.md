@@ -44,4 +44,10 @@
 - Learning with Augmented Class by Exploiting Unlabeled Data  (**AAAI14**)  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/8997)]
 
 
+
+## Textbook
+
+- Z. Chen and B. Liu. "Lifelong Machine Learning." Morgan & Claypool Publishers, November 2016 (1st edition), August 2018 (2nd edition).   [[book](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)]
+
+
 ## Feel free to contact me if you find any interesting paper is missing.
