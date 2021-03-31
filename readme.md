@@ -4,6 +4,7 @@
 
   ### 2021
 -  Towards Open World Object Detection (**CVPR21**) [[paper](https://arxiv.org/abs/2103.02603)] 
+-  Generalizing to the Open World: Deep Visual Odometry with Online Adaptation  (**CVPR21**) [[paper](https://arxiv.org/pdf/2103.15279.pdf)] 
 
   
   ### 2020
