@@ -57,13 +57,3 @@
 
 ## Feel free to contact me if you find any interesting paper is missing.
 
-If you find this repo useful, please kindly cite our paper in TNNLS21:
-
-```tex
-@article{zhou2021TNNLS,
-author = {Zhou, Da-Wei andYang, Yang andZhan, De-Chuan},
-title = {Learning to Classify with Incremental New Class},
-journal = {TNNLS},
-year = {2021}
-}
-```
