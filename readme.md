@@ -3,8 +3,9 @@
 ## Papers
 
   ### 2021
--  Towards Open World Object Detection (**CVPR21**) [[paper](https://arxiv.org/abs/2103.02603)] 
--  Generalizing to the Open World: Deep Visual Odometry with Online Adaptation  (**CVPR21**) [[paper](https://arxiv.org/pdf/2103.15279.pdf)] 
+- Towards Open-World Recommendation: An Inductive Model-based Collaborative Filtering Approach(**ICML21**) [[paper](https://arxiv.org/abs/2007.04833)] 
+- Towards Open World Object Detection (**CVPR21**) [[paper](https://arxiv.org/abs/2103.02603)] 
+- Generalizing to the Open World: Deep Visual Odometry with Online Adaptation  (**CVPR21**) [[paper](https://arxiv.org/pdf/2103.15279.pdf)] 
 
   
   ### 2020
@@ -26,7 +27,10 @@
 ### 2018
 
 
-- Multi-Label Learning with Emerging New Labels(**TKDE18**) [[paper](https://ieeexplore.ieee.org/abstract/document/8305522)] 
+- Multi-Label Learning with Emerging New Labels (**TKDE18**) [[paper](https://ieeexplore.ieee.org/abstract/document/8305522)]
+- Memory based online learning of deep representations from video streams (**CVPR18**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Pernici_Memory_Based_Online_CVPR_2018_paper.html)]
+
+ 
 
 ### 2017
 
@@ -52,3 +56,14 @@
 
 
 ## Feel free to contact me if you find any interesting paper is missing.
+
+If you find this repo useful, please kindly cite our paper in TNNLS21:
+
+```tex
+@article{zhou2021TNNLS,
+author = {Zhou, Da-Wei andYang, Yang andZhan, De-Chuan},
+title = {Learning to Classify with Incremental New Class},
+journal = {TNNLS},
+year = {2021}
+}
+```
