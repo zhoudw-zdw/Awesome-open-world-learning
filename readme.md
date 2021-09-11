@@ -3,6 +3,8 @@
 ## Papers
 
   ### 2021
+- Learning to Classify with Incremental New Class (**TNNLS2021**) [[paper](https://ieeexplore.ieee.org/document/9533187/)] 
+- Deep Metric Learning for Open World Semantic Segmentation (**ICCV2021**) [[paper](https://arxiv.org/abs/2108.04562)] 
 - Towards Open-World Recommendation: An Inductive Model-based Collaborative Filtering Approach(**ICML21**) [[paper](https://arxiv.org/abs/2007.04833)] 
 - Towards Open World Object Detection (**CVPR21**) [[paper](https://arxiv.org/abs/2103.02603)] 
 - Generalizing to the Open World: Deep Visual Odometry with Online Adaptation  (**CVPR21**) [[paper](https://arxiv.org/pdf/2103.15279.pdf)] 
