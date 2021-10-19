@@ -4,6 +4,7 @@
 
   ### 2021
 - Learning to Classify with Incremental New Class (**TNNLS21**) [[paper](https://ieeexplore.ieee.org/document/9533187/)] 
+- The Pursuit of Knowledge: Discovering and Localizing Novel Categories using Dual Memory (**ICCV21**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Rambhatla_The_Pursuit_of_Knowledge_Discovering_and_Localizing_Novel_Categories_Using_ICCV_2021_paper.pdf)] 
 - Deep Metric Learning for Open World Semantic Segmentation (**ICCV21**) [[paper](https://arxiv.org/abs/2108.04562)] 
 - Towards Open-World Recommendation: An Inductive Model-based Collaborative Filtering Approach (**ICML21**) [[paper](https://arxiv.org/abs/2007.04833)] 
 - Towards Open World Object Detection (**CVPR21**) [[paper](https://arxiv.org/abs/2103.02603)] 
